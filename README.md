@@ -1,18 +1,13 @@
 -  Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Ziying Xiang
-
 <p>&nbsp;</p>
-
 ✨ **About Me in 30 secs**✨
 
 - 👀 I’m addicted to Data Analysis and I love learning new skills
 - 💉 I have a bachelor's degree and master's degree in Business Analytics
 - 🌱 I self-taught SQL and Tableau
 - 📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development
-
-
 - 📫 How to find me: [LinkedIn](https://www.linkedin.com/in/ziying-xiang/)
 
- 
 <p>&nbsp;</p>
  
  💡**Skills**💡:
